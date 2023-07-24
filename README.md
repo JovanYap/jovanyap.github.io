@@ -1,6 +1,7 @@
 # my-website
 - personal website 
 - hosted on github
-- inspiration: windowsxp @donchia.tech
 
-## Citations
+## Citations and inspirations
+- Amazing UI component library: @react95.io
+- Inspiration: @DonChiaQE donchia.tech
