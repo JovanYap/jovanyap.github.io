@@ -3,9 +3,9 @@
     <img class="w-full h-auto" src="@/assets/Biography/self.jpg" />
     <h2 class="font-bold text-2xl py-5">Jovan Yap</h2>
     <h4 class="text-gray-600 font-medium text-xs" style="padding-bottom: 10px">
-        AI Software Engineer • MEng CS & EE @ UC Berkeley • BSE CS & ECE @ UofMichigan, SJTU 
+        Bytedance AI Software Engineer Intern • MEng CS & EE @ UC Berkeley • BSE CS & ECE @ UofMichigan, SJTU 
     </h4>
-    <h4 class="text-gray-600 font-medium text-xs">Michigan, USA / Singapore 📍</h4>
+    <h4 class="text-gray-600 font-medium text-xs">California, USA / Singapore 📍</h4>
     <div class="flex flex-wrap mt-5 gap-2 items-center">
         <img class="w-auto h-5 rounded-none text-xs" alt="Swift" src="https://img.shields.io/badge/-Cpp/C-orange" />
         <img class="w-auto h-5 rounded-none text-xs" alt="Python" src="https://img.shields.io/badge/-Python-blue" />
@@ -31,6 +31,15 @@
     <div class="pt-7">
         <h3 class="underline font-bold text-md pb-1">Work Experience</h3>
     </div>
+
+    <div class="pt-7">
+        <h3 class="pb-1"><b>Bytedance, Video Analytics Team (May 2025 - Aug 2025)</b></h3>
+        <h6 class="text-gray-600 font-medium text-xs">AI Software Engineer Intern</h6>
+        <p class="font-thin text-sm pb-2.5">
+            At ByteDance, I will engineer scalable machine learning pipelines that integrate large language models (LLMs) and graph neural networks (GNNs) to enable real-time detection of financial risks and ensure regulatory compliance. I will also develop and deploy models to identify compliance issues across live streaming and e-commerce platforms, contributing to the safety and integrity of ByteDance’s global payment ecosystem.
+        </p>
+    </div>
+
     <div class="pt-7">
         <h3 class="pb-1"><b>Govtech, Video Analytics Team (May 2024 - Aug 2024)</b></h3>
         <h6 class="text-gray-600 font-medium text-xs">AI Software Engineer Intern</h6>
@@ -69,7 +78,7 @@
     </div>
 
     <div class="pt-7">
-        <h3 class="pb-1"><b>Autonomous Robotics Vehicles Organization (Computer Vision Team) (Jan 2024 - May 2024)</b></h3>
+        <h3 class="pb-1"><b>Autonomous Robotics Vehicles Organization, Computer Vision Team (Jan 2024 - May 2024)</b></h3>
         <h6 class="text-gray-600 font-medium text-sm">Machine Learning Engineer</h6>
         <p class="font-thin text-sm pb-2.5">
             Designed AI deep learning algorithms to train the YOLO instance segmentation model and deployed it on ROS.
