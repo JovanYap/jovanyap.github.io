@@ -33,7 +33,7 @@
     </div>
 
     <div class="pt-7">
-        <h3 class="pb-1"><b>Bytedance, Video Analytics Team (May 2025 - Aug 2025)</b></h3>
+        <h3 class="pb-1"><b>Bytedance, Global Payment Team (May 2025 - Aug 2025)</b></h3>
         <h6 class="text-gray-600 font-medium text-xs">AI Software Engineer Intern</h6>
         <p class="font-thin text-sm pb-2.5">
             At ByteDance, I will engineer scalable machine learning pipelines that integrate large language models (LLMs) and graph neural networks (GNNs) to enable real-time detection of financial risks and ensure regulatory compliance. I will also develop and deploy models to identify compliance issues across live streaming and e-commerce platforms, contributing to the safety and integrity of ByteDance’s global payment ecosystem.
