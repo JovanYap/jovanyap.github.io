@@ -1,11 +1,11 @@
 <template>
 <div>
-    <img class="w-full h-auto" src="@/assets/Biography/self.jpg" />
+    <img class="w-full h-auto" src="@/assets/Biography/self.jpg" alt="profile photo"/>
     <h2 class="font-bold text-2xl py-5">Jovan Yap</h2>
-    <h4 class="text-gray-600 font-medium text-xs" style="padding-bottom: 10px">
-        Bytedance AI Software Engineer Intern • MEng CS & EE @ UC Berkeley • BSE CS & ECE @ UofMichigan, SJTU 
+    <h4 class="text-blue-600 font-medium text-xs" style="padding-bottom: 10px">
+        MLE @ Bytedance • EECS @ UC Berkeley • CS, ECE @ UofMichigan, SJTU 
     </h4>
-    <h4 class="text-gray-600 font-medium text-xs">California, USA / Singapore 📍</h4>
+    <h4 class="text-blue-600 font-medium text-xs">California, USA / Singapore 📍</h4>
     <div class="flex flex-wrap mt-5 gap-2 items-center">
         <img class="w-auto h-5 rounded-none text-xs" alt="Swift" src="https://img.shields.io/badge/-Cpp/C-orange" />
         <img class="w-auto h-5 rounded-none text-xs" alt="Python" src="https://img.shields.io/badge/-Python-blue" />
@@ -34,7 +34,7 @@
 
     <div class="pt-7">
         <h3 class="pb-1"><b>Bytedance, Global Payment Team (May 2025 - Aug 2025)</b></h3>
-        <h6 class="text-gray-600 font-medium text-xs">AI Software Engineer Intern</h6>
+        <h6 class="text-blue-600 font-medium text-xs">AI Software Engineer Intern</h6>
         <p class="font-thin text-sm pb-2.5">
             At ByteDance, I will engineer scalable machine learning pipelines that integrate large language models (LLMs) and graph neural networks (GNNs) to enable real-time detection of financial risks and ensure regulatory compliance. I will also develop and deploy models to identify compliance issues across live streaming and e-commerce platforms, contributing to the safety and integrity of ByteDance’s global payment ecosystem.
         </p>
@@ -42,7 +42,7 @@
 
     <div class="pt-7">
         <h3 class="pb-1"><b>Govtech, Video Analytics Team (May 2024 - Aug 2024)</b></h3>
-        <h6 class="text-gray-600 font-medium text-xs">AI Software Engineer Intern</h6>
+        <h6 class="text-blue-600 font-medium text-xs">AI Software Engineer Intern</h6>
         <p class="font-thin text-sm pb-2.5">
             Built a high-accuracy (91%) multimodal RAG misinformation detector using VLMs like Llava and Idefices2. Designed and deployed a large-scale, serverless AI Video & Face Indexing System serving 30k users, utilizing NextJS on AWS. Engineered backend architecture with DynamoDB, API Gateway, Rekognition, and Lambda Functions. Created web crawlers for curating news datasets and enhancing fake news detection workflows.
         </p>
@@ -50,7 +50,7 @@
 
     <div class="pt-7">
         <h3 class="pb-1"><b>Land Transport Authority (Jun 2023 - Aug 2023)</b></h3>
-        <h6 class="text-gray-600 font-medium text-sm">Machine Learning Engineer Intern</h6>
+        <h6 class="text-blue-600 font-medium text-sm">Machine Learning Engineer Intern</h6>
         <p class="font-thin text-sm pb-2.5">
             Developed a reinforcement learning distributed training pipeline using PyTorch and AWS to train the Meta Llama2 LLM. Built a multithreading pipeline for efficient training of Meta Llama2, exploring chatbot deployment through semantic search.
         </p>
@@ -58,7 +58,7 @@
 
     <div class="pt-7">
         <h3 class="pb-1"><b>Medios (Dec 2022 - May 2023)</b></h3>
-        <h6 class="text-gray-600 font-medium text-xs">Machine Learning Engineer Intern</h6>
+        <h6 class="text-blue-600 font-medium text-xs">Machine Learning Engineer Intern</h6>
         <p class="font-thin text-sm pb-2.5">
             Conducted image and data processing, annotation, and model training using TensorFlow on AzureML. Deployed an eye image quality classifier achieving 93% accuracy for clinical trials, enhancing image clarity filtering.
         </p>
@@ -70,7 +70,7 @@
 
     <div class="pt-7">
         <h3 class="pb-1"><b>University of Michigan Human-AI Lab (Current)</b></h3>
-        <h6 class="text-gray-600 font-medium text-sm">Agentic AI Software Engineer</h6>
+        <h6 class="text-blue-600 font-medium text-sm">Agentic AI Software Engineer</h6>
         <p class="font-thin text-sm pb-2.5">
             Developed WorldScribe, integrating memory for context-aware descriptions, enhancing accessibility for blind users.
             Designed an AI agent with a dynamic memory system, reducing repetitive descriptions and enabling real-time interactions.
@@ -79,7 +79,7 @@
 
     <div class="pt-7">
         <h3 class="pb-1"><b>Autonomous Robotics Vehicles Organization, Computer Vision Team (Jan 2024 - May 2024)</b></h3>
-        <h6 class="text-gray-600 font-medium text-sm">Machine Learning Engineer</h6>
+        <h6 class="text-blue-600 font-medium text-sm">Machine Learning Engineer</h6>
         <p class="font-thin text-sm pb-2.5">
             Designed AI deep learning algorithms to train the YOLO instance segmentation model and deployed it on ROS.
             Deployed the model on autonomous vehicles with sensors including GPS, Lidar, Camera, and WiFi modules.
@@ -88,7 +88,7 @@
 
     <div class="pt-7">
         <h3 class="pb-1"><b>University of Michigan Mcity (Smart City) (Jan 2024 - May 2024)</b></h3>
-        <h6 class="text-gray-600 font-medium text-sm">AI Software Engineer</h6>
+        <h6 class="text-blue-600 font-medium text-sm">AI Software Engineer</h6>
         <p class="font-thin text-sm pb-2.5">
             Built a scalable AV simulation platform using SUMO for traffic modelling, enabling iterative testing of autonomous vehicles.
             Designed the Redis database and vehicle dynamics communication system between macro- and micro-simulators.
@@ -97,7 +97,7 @@
 
     <div class="pt-7">
         <h3 class="pb-1"><b>University of Michigan EECS485 Web Systems (Jan 2024 - May 2024)</b></h3>
-        <h6 class="text-gray-600 font-medium text-sm">Fullstack Software Engineer</h6>
+        <h6 class="text-blue-600 font-medium text-sm">Fullstack Software Engineer</h6>
         <p class="font-thin text-sm pb-2.5">
             Developed an Instagram-like software using AWS, React front-end, Flask back-end, and a relational database with REST API.
             Designed a MapReduce distributed system with network programming TCP using Hadoop and multithreading.

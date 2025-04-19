@@ -2,9 +2,9 @@
 <div>
     <img src="@/assets/Govtech/background.webp" alt="GovTech Logo" class="hero" />
     <div class="inner-content">
-      <h3 class="heading"><b>Background</b></h3>
+      <h3 class="heading"><b>Introduction</b></h3>
       <p class="paragraph">
-        I’m Jovan, a Computer Science and Electrical & Computer Engineering undergraduate student under the double degree program at the University of Michigan — Shanghai Jiaotong University. I joined the team back in May 2024. During my four-month internship at GovTech, I contributed to various content authentication and management initiatives as part of the AI Practice in the Government Technology Office (GTO).
+        I joined the Govtech Video Analytics and AI Practice team back in May 2024. During my four-month internship at GovTech, I contributed to various content authentication and management initiatives as part of the AI Practice in the Government Technology Office (GTO). I worked on two main projects: the Out-of-Context Image-Caption Pair Detection and Curator, an Automated Media Indexing Management System. 
       </p>
       <p class="paragraph">
         As an intellectually curious learner and innovative problem solver, I am excited to contribute to the AI Practice’s mission. This article reflects my journey from learning how to apply AI to solve real-world problems to deploying scalable AI systems for the public.
@@ -31,7 +31,7 @@
     <img src="@/assets/Govtech/aws.webp" class="images-full" />
     <h6 class="subtitle">Automated Media Indexing Management</h6>
     <div class="inner-content">
-      <h3 class="heading"><b>Project 2: Automated Media Indexing Management</b></h3>
+      <h3 class="heading"><b>Curator: Automated Media Indexing Management System</b></h3>
       <p class="paragraph">
         My second project involved collaborating with the Government Digital Products team to develop a Whole-of-Government (WOG) media indexing management system. This initiative explored advanced multimodal AI capabilities, including multimodal search and automated tagging and captioning for both images and videos.
       </p>
@@ -69,7 +69,7 @@
       </p>
     </div>
     <br />
-    <a href="https://www.curator.gov.sg/" style="color: #ff5733">Curator</a>
+    <a href="https://www.curator.gov.sg/" style="color: #ff5733">Govtech Curator Project</a>
 </div>
 </template>
 

@@ -13,7 +13,7 @@
 
     <!-- Project 2 Section -->
     <img src="@/assets/fullstack_distributed_systems/p2-insta485.webp" alt="Insta485 Serverside" class="images" />
-    <h6 class="subtitle">Project 2: insta485-serverside</h6>
+    <h6 class="subtitle">insta485-serverside</h6>
     <div class="inner-content">
       <h3 class="heading"><b>Server-side Rendering</b></h3>
       <p class="paragraph">
@@ -34,7 +34,7 @@
 
     <!-- Project 3 Section -->
     <img src="@/assets/fullstack_distributed_systems/p3-insta485.webp" alt="Insta485 Serverside" class="images" />
-    <h6 class="subtitle">Project 3: insta485-clientside</h6>
+    <h6 class="subtitle">insta485-clientside</h6>
     <div class="inner-content">
       <h3 class="heading"><b>Client-side Rendering</b></h3>
       <p class="paragraph">
@@ -55,7 +55,7 @@
 
     <!-- Project 4 Section -->
     <img src="@/assets/fullstack_distributed_systems/p4-mapreduce.webp" alt="Insta485 Serverside" class="images" />
-    <h6 class="subtitle">Project 4: MapReduce Distributed System</h6>
+    <h6 class="subtitle">MapReduce Distributed System</h6>
     <div class="inner-content">
       <h3 class="heading"><b>Distributed System Implementation</b></h3>
       <p class="paragraph">
@@ -76,7 +76,7 @@
 
     <!-- Project 5 Section -->
     <img src="@/assets/fullstack_distributed_systems/p5-search-engine.webp" alt="Insta485 Serverside" class="images" />
-    <h6 class="subtitle">Project 5: Search Engine</h6>
+    <h6 class="subtitle">Search Engine</h6>
     <div class="inner-content">
       <h3 class="heading"><b>Search Engine Development</b></h3>
       <p class="paragraph">
