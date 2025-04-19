@@ -81,7 +81,7 @@ export const useWindowsStore = defineStore("windows", {
       {
         windowId: "NOSSAFLEXWindow",
         windowState: "close",
-        displayName: "Govtech",
+        displayName: "Govtech Curator",
         windowComponent: "window",
         windowContent: "nossaflex",
         windowContentPadding: {
