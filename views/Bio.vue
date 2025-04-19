@@ -5,7 +5,7 @@
     <h4 class="text-blue-600 font-medium text-xs" style="padding-bottom: 10px">
         MLE @ Bytedance • EECS @ UC Berkeley • CS, ECE @ UofMichigan, SJTU 
     </h4>
-    <h4 class="text-blue-600 font-medium text-xs">📍 California, USA / Singapore</h4>
+    <h4 class="text-blue-600 font-medium text-xs">California, USA / Singapore 📍</h4>
     <div class="flex flex-wrap mt-5 gap-2 items-center">
         <img class="w-auto h-5 rounded-none text-xs" alt="Swift" src="https://img.shields.io/badge/-Cpp/C-orange" />
         <img class="w-auto h-5 rounded-none text-xs" alt="Python" src="https://img.shields.io/badge/-Python-blue" />
